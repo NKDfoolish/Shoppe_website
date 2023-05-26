@@ -152,6 +152,7 @@
     will-change: opacity, transform;
     transform-origin: calc(100% - 20px) top;
     display: none;
+    z-index: 1;
 }
 
 .header__notify::before {

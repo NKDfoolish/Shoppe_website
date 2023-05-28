@@ -1251,3 +1251,13 @@ i.home-product-item__like-icon-fill {
     line-height: 1.6rem;
     font-weight: 500;
 }
+
+.home-product__pagination {
+    margin-top: 48px;
+    margin-bottom: 32px;
+}
+
+/* Footer*/
+.footer {
+
+}
